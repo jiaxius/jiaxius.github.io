@@ -1,0 +1,2 @@
+import{_ as t,o as s,c as n,b as e}from"./app-8cdd09e6.js";const a={},l=e("p",null,"命令行输入",-1),c=e("div",{class:"language-text line-numbers-mode","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`npm create vue@latest
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),o=[l,c];function r(i,_){return s(),n("div",null,o)}const u=t(a,[["render",r],["__file","install.html.vue"]]);export{u as default};
